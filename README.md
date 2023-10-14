@@ -1,2 +1,2 @@
-# phd-thesis-template-uni-tuebingen
+# PhD Thesis Template (Uni Tübingen)
 PhD thesis template for Uni Tübingen
